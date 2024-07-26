@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @TheGafff
-- 👀 Curently looking to break out of help desk, I’m interested in advancing my technology skills and exploring the world of IT
+- 👀 Curently looking to expand my skillset beyond helpdesk, I’m interested in advancing my technology skills and exploring the world of IT
 
   -  Open to experiences in Cloud, Cybersecurity, Networking, DevOps, Sysadmin, anything that is fun and involves tech!
 - 🌱 I’m currently learning PowerShell and Linux

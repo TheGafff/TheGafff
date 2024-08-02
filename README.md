@@ -3,6 +3,7 @@
 
   -  Open to experiences in Cloud, Cybersecurity, Networking, DevOps, Sysadmin, anything that is fun and involves tech!
 - 🌱 I’m currently learning PowerShell and Linux
+    - Participating in the Linux Upskill Challenge August 2024
 - 💞️ I’m looking to collaborate on anything that is within my wheelhouse
 - 📫 How to reach me:
     - Email: matthewgaffney12@gmail.com
